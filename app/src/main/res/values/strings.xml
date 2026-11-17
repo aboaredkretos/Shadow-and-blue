@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shadow &amp; Blue</string>
+    <string name="menu_continue">Continue Journey</string>
+    <string name="menu_begin">Begin Journey</string>
+    <string name="menu_chapters">Forest Chapters</string>
+    <string name="menu_journal">Storybook Journal</string>
+    <string name="menu_sequel">Beyond the Garden</string>
+    <string name="hud_fireflies">Fireflies</string>
+    <string name="hud_kittens">Kittens</string>
+    <string name="hud_pause">Pause</string>
+    <string name="hud_mute">Toggle Audio</string>
+    <string name="controls_left">Move Left</string>
+    <string name="controls_right">Move Right</string>
+    <string name="controls_jump">Jump or Glide</string>
+    <string name="controls_dash">Shadow Dash</string>
+    <string name="controls_pulse">Lantern Pulse</string>
+    <string name="dialogue_continue">Tap to continue</string>
+    <string name="journal_empty">Explore the forest and light lanterns to record memories here.</string>
+    <string name="action_back">Back</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Shadow & Blue",
+  "description": "A cozy pixel-art silhouette 2D side-scroller following a black cat with white eyes through a mysterious day-night forest to rescue her lost kittens, culminating in finding Blue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
